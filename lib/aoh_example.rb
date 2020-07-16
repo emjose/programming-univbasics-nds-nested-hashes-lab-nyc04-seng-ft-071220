@@ -7,7 +7,7 @@ KATE_G = { name:  "Kate Gompert", occupation: "None" }
 BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 
 def assembled_aoh
-  array = [
+  assembled_aoh = [
     DON_G,
     JOELLE-VD,
     PAT_M,
